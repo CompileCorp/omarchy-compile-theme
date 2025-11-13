@@ -1,9 +1,9 @@
-@define-color selected-text #e7e9ea;
-@define-color text #71767b;
-@define-color base #000000;
-@define-color border #e7e9ea;
-@define-color foreground #71767b;
-@define-color background #000000;
+@define-color selected-text #FEFFFF;
+@define-color text #788ADD;
+@define-color base #080F11;
+@define-color border #48d597;
+@define-color foreground #FEFFFF;
+@define-color background #080F11;
 
 #box {
   border-radius: 6px;

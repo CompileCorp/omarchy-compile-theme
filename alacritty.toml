@@ -17,38 +17,38 @@ size = 12.0
 [colors]
 
 [colors.normal]
-black = "#333333"
-red = "#D35F5F"
-green = "#FFC107"
-yellow = "#b91c1c"
-blue = "#e68e0d"
-magenta = "#D35F5F"
-cyan = "#bebebe"
-white = "#bebebe"
+black = "#101618"
+red = "#FB6E88"
+green = "#48d597"
+yellow = "#F5B944"
+blue = "#8BA1FF"
+magenta = "#DA6177"
+cyan = "#788ADD"
+white = "#FEFFFF"
 
 [colors.bright]
-black = "#8a8a8d"
-red = "#B91C1C"
-green = "#FFC107"
-yellow = "#b90a0a"
-blue = "#f59e0b"
-magenta = "#B91C1C"
-cyan = "#eaeaea"
-white = "#ffffff"
+black = "#1C2225"
+red = "#FB6E88"
+green = "#48d597"
+yellow = "#F5B944"
+blue = "#8BA1FF"
+magenta = "#DA6177"
+cyan = "#788ADD"
+white = "#FEFFFF"
 
 [colors.cursor]
-cursor = '#c3b7b8'
-text = '#2c2525'
+cursor = '#48d597'
+text = '#080F11'
 
 [colors.primary]
-background = '#000000'
-foreground = '#e6d9db'
-dim_foreground = "#8a8a8d"
+background = '#080F11'
+foreground = '#FEFFFF'
+dim_foreground = "#788ADD"
 
 [colors.selection]
-background = '#403e41'
-text = '#e6d9db'
+background = '#2D3048'
+text = '#FEFFFF'
 
 [colors.vi_mode_cursor]
-text = "#121212"
-cursor = "#eaeaea"
+text = "#080F11"
+cursor = "#48d597"

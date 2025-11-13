@@ -1,5 +1,5 @@
-@define-color foreground #e7e9ea;
-@define-color background #000000;
+@define-color foreground #FEFFFF;
+@define-color background #080F11;
 /* @define-color background rgba(0,0,0,0.0) */
 * {
   background-color: @background;
@@ -10,5 +10,5 @@
 }
 
 #workspaces button.active {
-    border-bottom: 1px solid @foreground;
+    border-bottom: 1px solid #48d597;
 }
