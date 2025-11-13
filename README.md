@@ -1,11 +1,21 @@
-# Felix - Omarchy Theme
+# Felix - Omarchy Theme (Oxide Edition)
 
 An Omarchy Theme for your Arch Linux / Hyprland setup
 
-A dead simple theme for the digital minimalist. Black & white with space to breath. While also going edge-to-edge on your monitor and not wasting valuable screen real estate.
+A refined theme for the digital minimalist, featuring the Oxide Computer design system color palette. Dark backgrounds with vibrant Oxide green accents, complemented by carefully selected secondary colors. Going edge-to-edge on your monitor without wasting valuable screen real estate.
 
-10+ extremely subtle backgrounds. No dramatic backgrounds. No clown-color text. No workspace animations. No nonsense.
+Single curated wallpaper. No clown-color text. No workspace animations. No nonsense.
 
-Einstein & Jobs wore the same thing every day. Now you can too.
+## Color Palette
+
+Based on the Oxide Computer design system:
+- **Oxide Green** (#48d597) - Primary accent
+- **Yellow** (#F5B944), **Red** (#FB6E88), **Blue** (#8BA1FF) - Secondary colors
+- **Dark Neutrals** (#080F11, #1C2225) - Backgrounds
+- **Near White** (#FEFFFF) - Text
+
+## Wallpaper
+
+See `backgrounds/README.md` for wallpaper installation instructions.
 
 ![Felix Omarchy Theme Screenshot](theme.png)
